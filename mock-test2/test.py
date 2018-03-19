@@ -38,17 +38,26 @@ def test5(mocked_function):
 
 
 if __name__ == '__main__':
+    print("*** test1 ***")
     test1()
     print()
 
+    print("*** test2 ***")
     test2()
     print()
 
+    print("*** test3 ***")
     test3()
     print()
 
+    print("*** test4 ***")
     test4()
     print()
 
+    print("*** test5 ***")
     test5()
+    print()
+
+    print("*** test1 ***")
+    test1()
     print()

@@ -18,3 +18,6 @@ if __name__ == '__main__':
 
     test2()
     print()
+
+    test1()
+    print()
