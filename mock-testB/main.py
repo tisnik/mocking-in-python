@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+
+"""Vstupní bod do testované aplikace."""
 from module1 import *
 
 

@@ -1,3 +1,5 @@
+"""Implementace jednotkových testů."""
+
 from unittest.mock import *
 
 from module1 import *
